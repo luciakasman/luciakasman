@@ -18,7 +18,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciakasman&layout=compact" alt="luciakasman" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luciakasman&show_icons=true" alt="luciakasman" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luciakasman&show_icons=true&theme=buefy" alt="luciakasman" /></p>
 
  <h3 align="center"> 📫 You can find me here: </h3>
 <p align="center">
