@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciakasman" alt="luciakasman" /> </p>
 
+- 👯 I’m a Software Engineering student at the **University of Buenos Aires**
+
 - 🔭 I’m currently working as a Backend Developer at **AlMundo**
 
 - 🌱 My interests are **Backend Development, Data Science, Data Engineering, Optimization**
-
-- 👯 I’m a Software Engineering student at the **University of Buenos Aires**
 
 - 💬 Ask me about **Python, Java, C, Git, anything you need**
 
