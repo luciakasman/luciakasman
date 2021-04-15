@@ -5,7 +5,7 @@
 
 - 👯 I’m a Software Engineering student at the **University of Buenos Aires**
 
-- 🔭 I’m currently working as a Backend Developer at **AlMundo**
+- 🔭 I’m currently working as a Backend Developer at **Medallia**
 
 - 🌱 My interests are **Backend Development, Data Science, Data Engineering, Optimization**
 
