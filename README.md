@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Lucía Kasman</h1>
+<h1 align="center">Hi 👋 I'm Lucía Kasman (she/her)</h1>
 <h3 align="center">A Software Engineering student from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciakasman" alt="luciakasman" /> </p>
