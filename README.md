@@ -5,8 +5,6 @@
 
 - 👯 I’m a Software Engineering student at the **University of Buenos Aires**
 
-- 🔭 I’m currently working as a Data Developer at **Mutt Data**
-
 - 🌱 My interests are **Backend Development, Data Science, Data Engineering, Optimization**
 
 - 💬 Ask me about **Python, Java, C, Git, anything you need**
