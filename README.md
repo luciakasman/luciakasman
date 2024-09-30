@@ -5,7 +5,7 @@
 
 - 👯 I’m a Software Engineering student at the **University of Buenos Aires**
 
-- 🌱 My interests are **Backend Development, Data Science, Data Engineering, Optimization**
+- 🌱 My interests are **Data Science, AI, Optimization, Backend Development**
 
 - 💬 Ask me about **Python, Java, C, Git, anything you need**
 
