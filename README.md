@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Lucía Kasman (she/her)</h1>
-<h3 align="center">A Software Engineering student from Argentina</h3>
+<h3 align="center">Master's Degree in Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciakasman" alt="luciakasman" /> </p>
 
-- 👯 I’m a Software Engineering student at the **University of Buenos Aires**
+- 👯 I’m a Software Engineer from the **University of Buenos Aires**, Argentina
 
 - 🌱 My interests are **Data Science, AI, Optimization, Backend Development**
 
