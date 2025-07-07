@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciakasman" alt="luciakasman" /> </p>
 
-- 👯 I’m a Software Engineer from the **University of Buenos Aires, Argentina**
+- 👯 I’m a Software Engineer from **University of Buenos Aires, Argentina**
 
 - 🌱 My interests are **Data Science, AI, Optimization, Backend Development**
 
