@@ -19,6 +19,11 @@
 
  <h3 align="center"> 📫 You can find me here: </h3>
 <p align="center">
-<a href="https://linkedin.com/in/luciakasman/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/luciakasman/" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/luciakasman/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+
 
 </p>
