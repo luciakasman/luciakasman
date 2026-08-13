@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciakasman" alt="luciakasman" /> </p>
 
-- 👯 I’m a Software Engineer from **University of Buenos Aires, Argentina**
+- 👯 I’m a Software Engineer from **University of Buenos Aires, Argentina**.
 
-- 🌱 My interests are **Data Science, AI, Optimization, Backend Development**
+- 🥨 Currently living and working in **Berlin, Germany**. 
 
-- 💬 Ask me about **Python, Java, C, Git, anything you need**
+- 🌱 My interests are **Data Science, AI, Optimization, Backend Development**.
+
+- 💬 Ask me about **Python, Java, C, Git, anything you need**.
 
 <h3 align="center"> If I don't know about it, we can learn together 🤝 </h3>
 
 ---
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luciakasman&show_icons=true&theme=buefy&count_private=true&hide_rank=true" alt="luciakasman" /></p> 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciakasman&layout=compact&theme=buefy&count_private=true&langs_count=6&hide=jupyter-notebook" alt="luciakasman" /></p>
 
  <h3 align="center"> 📫 You can find me here: </h3>
 <p align="center">
